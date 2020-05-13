@@ -6,6 +6,14 @@
 npm install
 ```
 
+## Usage
+
+1. Ensure that a SimpleSAML provider is running in docker.
+
+    ```bash
+       npm run simplesaml:up
+    ```
+
 ## Maintaining the repo
 
 It is important to keep the dependencies of this repo up to date. Do these steps:
