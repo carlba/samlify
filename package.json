@@ -25,5 +25,11 @@
     "gts": "^2.0.2",
     "typescript": "^3.8.3",
     "@types/node": "^13.11.1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "passport": "^0.4.1"
   }
 }
