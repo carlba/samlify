@@ -4,7 +4,7 @@ version: '3'
 
 services:
   test-saml:
-    image: kristophjunge/test-saml-idp
+    image: kristophjunge/certs-saml-idp
     container_name: samlify_test-saml-idp
     restart: always
     ports:

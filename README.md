@@ -13,7 +13,20 @@ npm install
     ```bash
        npm run simplesaml:up
     ```
+   
+2. Then make sure the required certificates are in place. For a development scenario the `npm run certificates` can
+   be used.
+   
+3. Start the application
 
+    ```bash
+   npm run dev
+   ```
+   
+4. Goto http://localhost:4300/login
+   You should be redirected to the login page that the simpleSaml IDP exposes and then "logged in" into
+   this application.
+      
 ## Maintaining the repo
 
 It is important to keep the dependencies of this repo up to date. Do these steps:

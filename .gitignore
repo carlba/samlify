@@ -3,3 +3,7 @@
 
 # NodeJS
 node_modules/
+
+# Application specific
+build/
+src/certs/
