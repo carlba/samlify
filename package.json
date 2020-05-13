@@ -17,7 +17,9 @@
     "fix": "gts fix",
     "prepare": "npm run compile",
     "pretest": "npm run compile",
-    "posttest": "npm run check"
+    "posttest": "npm run check",
+    "simplesaml:start": "docker-compose up -d",
+    "simplesaml:stop": "docker-compose down -v"
   },
   "devDependencies": {
     "gts": "^2.0.2",

@@ -53,6 +53,9 @@ None
 - [typescript](https://ghub.io/typescript): TypeScript is a language for application scale JavaScript development
 - [@types/node](https://ghub.io/@types/node): TypeScript definitions for Node.js
 
+## Information
+https://medium.com/disney-streaming/setup-a-single-sign-on-saml-test-environment-with-docker-and-nodejs-c53fc1a984c9
+
 ## License
 
 MIT
